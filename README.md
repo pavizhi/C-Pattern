@@ -1,9 +1,9 @@
 ## Pattern
 
 ## Aim:
-     To write a C# program for a pascal's triangle.
+To write a C# program for a pascal's triangle.
 ## Equipment Required:
-     Microsoft Visual Studio 2022
+Microsoft Visual Studio 2022
 ## Algorithm:
 ## Step 1:
 Create a new Class.
